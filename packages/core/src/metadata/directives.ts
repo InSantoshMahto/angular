@@ -127,7 +127,7 @@ export interface Directive {
    * @usageNotes
    *
    * The following example creates a component with two data-bound properties.
-   *
+   * 
    * ```typescript
    * @Component({
    *   selector: 'bank-account',
